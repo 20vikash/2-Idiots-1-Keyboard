@@ -10,3 +10,5 @@
 
 https://github.com/user-attachments/assets/3a758779-8412-4f54-b0bd-5bd99b89238e
 
+- This dosen't work with backspaces.
+- Update it.. Give it a pull request. And let's make it bloom :)
